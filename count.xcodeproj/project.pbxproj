@@ -14,6 +14,7 @@
 		5EC47B941D2E53D4000447C0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EC47B921D2E53D4000447C0 /* LaunchScreen.storyboard */; };
 		5EC47B9F1D2E53D5000447C0 /* countTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC47B9E1D2E53D5000447C0 /* countTests.swift */; };
 		5EC47BAA1D2E53D5000447C0 /* countUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC47BA91D2E53D5000447C0 /* countUITests.swift */; };
+		5EC47BB81D2E55C1000447C0 /* voyage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5EC47BB71D2E55C1000447C0 /* voyage.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		5EC47BA51D2E53D5000447C0 /* countUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = countUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EC47BA91D2E53D5000447C0 /* countUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countUITests.swift; sourceTree = "<group>"; };
 		5EC47BAB1D2E53D5000447C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5EC47BB71D2E55C1000447C0 /* voyage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = voyage.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				5EC47B901D2E53D4000447C0 /* Assets.xcassets */,
 				5EC47B921D2E53D4000447C0 /* LaunchScreen.storyboard */,
 				5EC47B951D2E53D4000447C0 /* Info.plist */,
+				5EC47BB71D2E55C1000447C0 /* voyage.jpg */,
 			);
 			path = count;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5EC47BB81D2E55C1000447C0 /* voyage.jpg in Resources */,
 				5EC47B941D2E53D4000447C0 /* LaunchScreen.storyboard in Resources */,
 				5EC47B911D2E53D4000447C0 /* Assets.xcassets in Resources */,
 				5EC47B8F1D2E53D4000447C0 /* Main.storyboard in Resources */,
